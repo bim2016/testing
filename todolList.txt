@@ -1,10 +1,9 @@
 to do list:
 
-Revit Preview (2025)
-Design Automation for Dynamo
-AEC Data Model API
 pyRevit
-Revit API via Python
+AEC Data Model API
+Design Automation for Dynamo
+Data Exchange
 APS
 Revit Inside
 Grasshopper
