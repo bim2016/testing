@@ -1,12 +1,12 @@
-to do list:
+to do/review list:
 
-Revit Preview (Revit 2025)
-Revit Structure
-Revit MEP
-pyRevit
-AEC Data Model API
+Revit Preview (Revit 2025) -> done
+Revit Structure -> done
+Revit MEP -> done
+pyRevit -> done
+AEC Data Model API -> done
 Design Automation for Dynamo
 Data Exchange
-APS (Forge)
+APS (Forge) -> done
 Revit Inside
 Grasshopper
