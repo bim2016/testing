@@ -12,3 +12,5 @@ mySQL -> done
 MongoDB
 Revit Inside
 Grasshopper
+ChatGPT
+AWS
