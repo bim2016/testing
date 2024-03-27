@@ -12,5 +12,5 @@ mySQL -> done
 MongoDB
 Revit Inside
 Grasshopper
-ChatGPT
+ChatGPT -> done
 AWS
