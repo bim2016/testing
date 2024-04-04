@@ -11,7 +11,7 @@ APS (Forge) -> done
 Design Automation for Dynamo
 mySQL -> done
 MongoDB
-Revit Inside
+Rhino Inside Revit
 Grasshopper
 ChatGPT -> done
 AWS
