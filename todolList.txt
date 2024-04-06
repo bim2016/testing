@@ -11,8 +11,8 @@ APS (Forge) -> done
 Design Automation for Dynamo
 mySQL -> done
 MongoDB
-Rhino Inside Revit
-Grasshopper
+Rhino Inside Revit -> done
+Grasshopper -> done
 ChatGPT -> done
 AWS
 Twinmotion
