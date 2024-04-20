@@ -17,3 +17,5 @@ ChatGPT -> done
 AWS
 Twinmotion
 AU2023
+Navisworks 2025
+ACC
