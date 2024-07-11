@@ -17,7 +17,8 @@ ChatGPT -> done
 AWS
 Twinmotion
 AU2023 -> done
-Navisworks 2025
-ACC
+Navisworks 2025 -> done
+ACC -> done
 UNIFI
 Tandem
+Power Automate
