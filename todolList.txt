@@ -22,4 +22,4 @@ ACC -> done
 UNIFI
 Tandem
 Power Automate
-advanced C#/Python/JavaScript
+C#/Python/JavaScript
